@@ -21,7 +21,7 @@
     </td>
     <td align="center">
       <strong>ログイン画面</strong><br>
-      <img src="(https://github.com/user-attachments/assets/06434086-bf4d-48fc-882e-43bd8bc4a875" width="90%" />
+      <img src="https://github.com/user-attachments/assets/06434086-bf4d-48fc-882e-43bd8bc4a875" width="90%" />
     </td>
   </tr>
   <tr>
