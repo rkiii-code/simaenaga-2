@@ -176,7 +176,7 @@
 
 - 機密情報はコミットしません。`backend/.env.example` を使用して各自 `.env` を作成してください。
 - ビルド成果物・ログ・環境変数・アップロードファイルは `.gitignore` で除外しています。
-- `.gitattributes` により改行コードを統一しています（ソースは LF、Windows スクリプトは CRLF）。
+- `.gitattributes` により改行コードを統一しています（ソースは LF、Windows スクリプトは CRLF）。雰囲気で追加してみました。
 
 ## 代表的なスクリプト（backend）
 
