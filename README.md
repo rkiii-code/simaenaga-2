@@ -124,10 +124,8 @@
 
 ---
 
-<h2>
-  <img src="web/frontend/public/images/listShima.jpg" alt="alt text" style="height: 1em; vertical-align: baseline;" />
-  画像認識班
-</h2>
+## 画像認識班
+
 
 - 手の形を認識・データ化する処理を、GoogleのMediaPipeで実装
 - 認識結果の類似度をcos類似度で評価し、誤差を減少
