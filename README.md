@@ -124,9 +124,10 @@
 ### 使用した技術
 | 分類 | 技術 |
 |------|------|
-| フロントエンド | HTML, CSS, JavaScript, React, Figma |
-| バックエンド | Node.js, MySQL |
+| フロントエンド | React, Vite |
+| バックエンド | Node.js, Express, Prisma |
 | データベース | MySQL |
+| その他　| Figma |
 
 ---
 
